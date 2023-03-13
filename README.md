@@ -1,5 +1,3 @@
 ### Mão na massa!!!
 
-<div>
- <a href="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent">ola</h1>
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
