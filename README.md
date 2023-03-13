@@ -1,4 +1,4 @@
-### hello programmers!!!
+### Hello World!!!
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa&height=120&section=header&text=Mão+na+massa!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
@@ -23,7 +23,7 @@
 ### Main skills:
   ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=purple&labelColor=0D1117)&nbsp; 
 
 ### Tools:
