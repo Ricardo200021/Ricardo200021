@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/ricardofigueiro/"><img src="https://www.flaticon.com/free-icon/linkedin_174857" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/ricardofigueiro/" target="_blank"><img src="https://www.flaticon.com/free-icon/linkedin_174857"/></a>
 </div>
   
 ### Main skills:
