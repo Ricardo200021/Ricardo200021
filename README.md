@@ -1,3 +1,3 @@
 ### Mão na massa!!!
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Ricardo&fontSize=30&fontColor=blue&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header&text=Ricardo&fontSize=40&fontColor=#0000ff&animation=twinkling&fontAlignY=35"/>
