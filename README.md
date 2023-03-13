@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/ricardofigueiro/" target="_blank"><img src="https://www.flaticon.com/free-icon/linkedin_174857"/></a>
+<a href="https://www.linkedin.com/in/ricardofigueiro/" target="_blank"><img src="https://github.com/Ricardo200021/Gamer-Gera-o-4/blob/master/assets/linkedin-ar21.png"/></a>
 </div>
   
 ### Main skills:
