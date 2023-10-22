@@ -23,9 +23,8 @@
 ### Main skills:
   ![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
   ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=purple&labelColor=0D1117)&nbsp; 
-  ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-  
+   ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+   
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
 <!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
@@ -33,12 +32,13 @@
 ![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse&labelColor=0D1117)&nbsp;
 
 ### Other Knowledge:
-  ![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
+ ![javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=purple&labelColor=0D1117)&nbsp; 
   ![Linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&logoColor=1572B6&labelColor=0D1117)&nbsp;
  
 ### Studying in this moment:
    ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
   ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+  
  
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
