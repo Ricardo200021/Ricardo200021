@@ -1,4 +1,16 @@
-### Mão na massa!!!
+# Olá, eu sou Ricardo C. Figueiró
+
+Professor de Informática e Programação, formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Desenvolvimento de Sistemas com Java.
+
+Tenho experiência com ensino de informática, programação, suporte técnico, hardware, atendimento ao público e desenvolvimento de sistemas.
+
+## Áreas de atuação
+
+- Professor de Programação
+- Instrutor de Informática
+- Suporte Técnico de Informática
+- Desenvolvimento de sistemas com Java
+- Informática básica e Pacote Office
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=20b2aa&height=120&section=header&text=Hello+World!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
