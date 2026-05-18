@@ -1,4 +1,4 @@
-# Olá, DEV!
+# Olá, Dev!
 
 Professor de Informática e Programação, formado em Análise e Desenvolvimento de Sistemas e pós-graduado em Desenvolvimento de Sistemas com Java.
 
